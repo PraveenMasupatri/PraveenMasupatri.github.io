@@ -16,9 +16,7 @@ With a strong focus on cloud security, web application security, and security an
 
 Skills
 ------
-- **Technical Skills**: Penetration Testing, Vulnerability Management, Security Assessments, Web Application Security 
-Testing, Cloud Security, Amazon Web Services (AWS), Azure, Operating Systems (Windows, Linux), Threat 
-Intelligence, Threat Modelling, Digital Forensics, Incident Response, Network Forensics.
+- **Technical Skills**: Penetration Testing, Vulnerability Management, Web Application Security,Incident Response, Cloud Security, Amazon Web Services (AWS), Azure, Operating Systems (Windows, Linux), Threat Intelligence, Threat Modelling, Digital Forensics.
 - **Programming and Scripting**: Python, C++, Bash/Shell Scripting, SQL.
 - **Tools**: Burp Suite, Nessus, ServiceNow, Kali Linux, Power BI,Nmap, Metasploit, SQLMap, ffuf, Dirbuster.
 - **Digital Forensic Tools**: Autopsy, Wireshark, Volatility, TCPDump.
@@ -26,37 +24,24 @@ Intelligence, Threat Modelling, Digital Forensics, Incident Response, Network Fo
 Work Experience
 ------
 **Accenture Technology**
-
 *Software Engineer* | Jun 2021 - Jul 2023
-- Conducted web application penetration tests using Burp Suite and API security assessments using Postman, identifying 
-vulnerabilities in line with OWASP Top 10 standards for a major banking institution, enhancing threat intelligence and 
-analysis capabilities.
-- Managed the Application Security (AppSec) team's Change Request (CR) approval process for over 200 CRs, ensuring 
-secure deployment and identifying potential threats, thus maintaining strong security standards on behalf of the 
-Application Security Team. 
-- Collaborated with the team to perform security audits, vulnerability scanning, and assessments using Nessus on over 25 
-network devices and 500 servers within the financial domain, strengthening vulnerability analysis and mitigation 
-strategies. 
+- Designed and rolled out Power BI dashboards that consolidated customer interactions into unified profiles, providing actionable sales insights for predictive analysis.
+- Enhanced Customer Satisfaction (CSAT) by implementing Shift Left strategies that reduced resolution time and streamlined internal communications during critical outages, leading to a more efficient and effective customer support process. 
+- Implemented Nessus for vulnerability scanning and utilized AWS Cloud services to optimize infrastructure, proactively reducing vulnerabilities and cutting system maintenance costs, while improving scalability during high-traffic periods.
+- Utilized Splunk and AWS CloudWatch for system performance monitoring, optimizing incident response times and enhancing performance during peak periods. Implemented AWS Cloud Security Best Practices using AWS Config and CloudTrail, strengthening security posture and ensuring ongoing compliance.
 
 *Application Analyst* | May 2019 - May 2021 
 - Developed automation scripts to increase team productivity by 20%, eliminating manual interventions in Oracle database 
 operations and improving processes within the AWS Cloud environment. 
-- Developed and implemented shell scripts that automated Oracle database and data migration between cloud servers, 
-eliminating manual tasks and achieving a 40% reduction in process time, resulting in increased operational efficiency and 
-reliability. 
-- Developed microservices for the Inventory Management System using Java Spring Boot and MySQL, enhancing system 
-scalability and performance. 
-
+- Developed a comprehensive repository of Knowledge Base articles within ServiceNow, enhancing user education and reducing the need for product team interventions by providing users with self-service solutions.
+- Provided customer service consulting for a major retail client, resolving complex issues with hardware such as card readers, handheld scanners, and checkout lanes. This improved operational efficiency and significantly boosted customer satisfaction.
+- Created instructional videos that demonstrated application functionality and module workflows, empowering users with the knowledge to resolve issues independently, significantly improving user experience and reducing support incidents.
+ 
 Projects
 ------
-**Comprehensive Digital Forensic Investigation.** Conducted forensic analysis using Autopsy to extract and analyze malware 
-from a hard drive image, decoded embedded messages to uncover critical insights, and identified additional artifacts like 
-system logs and network traffic to understand malware behavior and objectives. 
+**Cloud Security Hardening for Healthcare Infrastructure.** Conducted a comprehensive security assessment of a healthcare platform’s AWS infrastructure, addressing vulnerabilities by securing IAM policies, implementing VPC segmentation, encrypting S3 buckets, and optimizing RDS for secure database management. Designed a robust, multi-tiered architecture incorporating Auto Scaling, multi-AZ deployments, and disaster recovery solutions to ensure scalability, high availability, and compliance with industry standards. 
 
-**Cloud Security Assessment and Infrastructure Hardening for Healthcare Platform.** Assessed and remediated security 
-vulnerabilities in a healthcare company's AWS cloud infrastructure by securing IAM policies, implementing VPC network 
-segmentation, encrypting S3 storage, and utilizing RDS for database management, while designing a multi-tiered architecture 
-with Auto Scaling, multi-AZ deployments, and disaster recovery for scalability, high availability, and compliance. 
+**Advanced Malware Forensics Investigation.** Led a thorough digital forensic investigation using Autopsy to extract and analyze malware from a compromised hard drive image. Decoded hidden messages to uncover critical evidence and identified system logs and network traffic to better understand the malware's objectives and behavior.
 
 Certifications
 ------
