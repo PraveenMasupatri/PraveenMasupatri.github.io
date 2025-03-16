@@ -39,15 +39,16 @@ operations and improving processes within the AWS Cloud environment.
  
 Projects
 ------
-**Cloud Security Hardening for Healthcare Infrastructure.** Conducted a comprehensive security assessment of a healthcare platform’s AWS infrastructure, addressing vulnerabilities by securing IAM policies, implementing VPC segmentation, encrypting S3 buckets, and optimizing RDS for secure database management. Designed a robust, multi-tiered architecture incorporating Auto Scaling, multi-AZ deployments, and disaster recovery solutions to ensure scalability, high availability, and compliance with industry standards. 
+**Cloud Security Hardening for Healthcare Infrastructure** Conducted a comprehensive security assessment of a healthcare platform’s AWS infrastructure, addressing vulnerabilities by securing IAM policies, implementing VPC segmentation, encrypting S3 buckets, and optimizing RDS for secure database management. Designed a robust, multi-tiered architecture incorporating Auto Scaling, multi-AZ deployments, and disaster recovery solutions to ensure scalability, high availability, and compliance with industry standards. 
 
-**Advanced Malware Forensics Investigation.** Led a thorough digital forensic investigation using Autopsy to extract and analyze malware from a compromised hard drive image. Decoded hidden messages to uncover critical evidence and identified system logs and network traffic to better understand the malware's objectives and behavior.
+**Advanced Malware Forensics Investigation** Led a thorough digital forensic investigation using Autopsy to extract and analyze malware from a compromised hard drive image. Decoded hidden messages to uncover critical evidence and identified system logs and network traffic to better understand the malware's objectives and behavior.
 
 Certifications
 ------
 - [CompTIA Security+ ce](https://www.credly.com/badges/af7ec686-df61-4c88-a67f-d158acc6b61d/public_url)
 - [SC-900: Microsoft Security, Compliance, Identity Fundamentals: Microsoft](https://www.credly.com/badges/c91dbcd1-082c-44b0-bde6-47733b0aa003/public_url)]
-- [AZ-900: Microsoft Azure Fundamentals: Microsoft](https://www.credly.com/badges/9b08d385-3fe1-4f1b-b1cd-154fa58b861d/public_url)
+- [AZ-900: Microsoft Azure Fundamentals](https://www.credly.com/badges/9b08d385-3fe1-4f1b-b1cd-154fa58b861d/public_url)
+- [PL-900: Microsoft Power Platform Fundamentals](https://www.credly.com/earner/earned/badge/4ed7ce7e-329d-400c-acbd-2a5c9d3d2c46)
 
 CTF
 ------
