@@ -8,11 +8,11 @@ redirect_from:
   - /index.html
 ---
 
-As a cybersecurity graduate student at the University of Maryland, I am passionate about protecting organizations from evolving threats and vulnerabilities.
+Cybersecurity graduate student with a strong passion for threat detection, cloud security, incident response, and security operations. Hands-on experience with SIEM platforms like Splunk and Microsoft Sentinel, conducting security investigations, analyzing attack patterns, and optimizing detection capabilities.
 
-I have industry experience in web application security, penetration testing, vulnerability assessment, ethical hacking, and API security testing. In my most recent role as an associate information security consultant at qSEAp Infotech, I worked on critical banking applications, conducting web application security assessments and analysis in line with OWASP Top 10 standards, and managing change request approval processes. I performed API security assessments and thick-client pentesting. I am proficient in programming languages like Java, C, Bash/Shell Scripting, and SQL, and tools such as Burp Suite, Nessus, Postman, Kali Linux, Nmap, and Wireshark.
+Previously at Accenture, worked on strengthening security monitoring, log analysis, and incident response workflows, collaborating with teams to refine security protocols and risk assessments. Additionally, experience as a Support Analyst and Consultant, utilizing Azure Databricks, SQL, Power BI, and ServiceNow to analyze security data and improve operational efficiency.
 
-My goal is to continue making a positive impact in the field and further develop my cybersecurity skill set. I am enthusiastic about contributing my expertise to cybersecurity initiatives, and actively seeking opportunities that will allow me to apply my knowledge and skills in real-world scenarios.
+With a strong focus on cloud security, web application security, and security analytics, I am dedicated to exploring innovative solutions that strengthen cybersecurity resilience. Actively seeking opportunities to apply my technical expertise in real-world security challenges, I aim to contribute to cutting-edge cybersecurity initiatives.
 
 Skills
 ------
